@@ -1,0 +1,6 @@
+pdfplumber==0.10.3
+pypdf==3.17.1
+reportlab==4.0.7
+pytesseract==0.3.10
+python-bidi==0.4.2
+pytest==7.4.3
